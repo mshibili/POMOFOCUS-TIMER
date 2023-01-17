@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "pic18f4580tqfp")(type "KiCad")(uri "${KIPRJMOD}/pic18f4580tqfp.kicad_sym")(options "")(descr ""))
+)
